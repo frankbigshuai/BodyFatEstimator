@@ -30,8 +30,8 @@ This project focuses on predicting body fat percentage using deep learning model
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/body-fat-prediction.git
-   cd body-fat-prediction
+   git clone https://github.com/frankbigshuai/BodyFatEstimator.git
+   cd BodyFatEstimator
    ```
 2. Install dependencies:
    ```bash
